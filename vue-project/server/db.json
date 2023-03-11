@@ -1,67 +1,62 @@
 {
-    "contacts": [
-        {
-            "id":"1234",
-            "name":"Paul Walker",
-            "company":"Nissan",
-            "email":"rideordie@gmail.com",
-            "title":"Driver",
-            "mobile":"987456321",
-            "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/1200px-User_icon_2.svg.png",
-            "groupId":"1"
-
-        },
-        {
-            "id":"5678",
-            "name":" Adam Smith",
-            "company":"QNB",
-            "email":"QnbSmith@gmail.com",
-            "title":"Banker",
-            "mobile":"4455123123213",
-            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-fMXEWyzl7MNd3Q15JOeyzHxasfVIHK6K_A&usqp=CAU",
-            "groupId":"2"
-
-        },
-        {
-            "id":"1234",
-            "name":"Naomi Walker",
-            "company":"BMW",
-            "email":"bmwNaomi@gmail.com",
-            "title":"Sales support",
-            "mobile":"99656684111",
-            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzyALOcLp4ykOIC4bim8L0xZIvgfLLZEo-mg&usqp=CAU",
-            "groupId":"2"
-
-        },
-        {
-            "id":"741258963",
-            "name":"Mark Gates",
-            "company":"twitter",
-            "email":"twitmark@gmail.com",
-            "title":"ceo",
-            "mobile":"12312312",
-            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzyALOcLp4ykOIC4bim8L0xZIvgfLLZEo-mg&usqp=CAU",
-            "groupId":"4"
-
-        }
-
-    ],
-    "groups":[
-        {
-            "id":"1",
-            "name":"Colleague"
-        },
-        {
-            "id":"2",
-            "name":"Friend"
-        },
-        {
-            "id":"3",
-            "name":"Family"
-        },
-        {
-            "id":"4",
-            "name":"Service"
-        }
-    ]
+  "contacts": [
+    {
+      "id": "1234",
+      "name": "Paul Walker",
+      "company": "Nissan",
+      "email": "rideordie@gmail.com",
+      "title": "Driver",
+      "mobile": "987456321",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/1200px-User_icon_2.svg.png",
+      "groupId": "1"
+    },
+    {
+      "id": "5678",
+      "name": " Adam Smith",
+      "company": "QNB",
+      "email": "QnbSmith@gmail.com",
+      "title": "Banker",
+      "mobile": "4455123123213",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-fMXEWyzl7MNd3Q15JOeyzHxasfVIHK6K_A&usqp=CAU",
+      "groupId": "2"
+    },
+    {
+      "id": "1234",
+      "name": "Naomi Walker",
+      "company": "BMW",
+      "email": "bmwNaomi@gmail.com",
+      "title": "Sales support",
+      "mobile": "99656684111",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzyALOcLp4ykOIC4bim8L0xZIvgfLLZEo-mg&usqp=CAU",
+      "groupId": "2"
+    },
+    {
+      "id": "741258963",
+      "name": "Mark Gates",
+      "company": "twitter",
+      "email": "twitmark@gmail.com",
+      "title": "ceo",
+      "mobile": "12312312",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_m3rrXsE-u9frM7pbB87hxoMQHLCtUdsoH3P71Cc&s",
+      "groupId": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    }
+  ]
 }
